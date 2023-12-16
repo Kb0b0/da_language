@@ -106,7 +106,7 @@ TT_RPAREN   	= 'RPAREN'
 TT_EOF				= 'EOF'
 
 KEYWORDS = [
-	'NIGGA'
+	'VAR'
 ]
 
 class Token:
